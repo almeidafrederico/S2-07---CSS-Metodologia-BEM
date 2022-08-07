@@ -5,30 +5,30 @@
     background-color: rgb(131, 179, 235);
     margin-top: 10px;
     border-left: 7px solid rgb(0, 140, 255);
-  }
-  
-  .alert--error {
-    background-color: #ec9892;
-    border-radius: 5px;
-    border-left: 7px solid red;
-  }
-  
-  .alert--success {
-    background-color: rgb(122, 211, 122);
-    border-left: 7px solid green;
-  }
+}
+
+.alert--error {
+background-color: #ec9892;
+border-radius: 5px;
+border-left: 7px solid red;
+}
+
+.alert--success {
+background-color: rgb(122, 211, 122);
+border-left: 7px solid green;
+}
 
   
 .alert__message {
     color: rgb(5, 3, 3);
-  }
+}
   
-  .alert__message--error {
-    font-size: 20px;
-    color: rgb(80, 65, 65);
-  }
-  
-  .alert__message--success {
-    border-bottom: 2px dotted green;
-    color: rgb(49, 46, 46);
-  }
+.alert__message--error {
+font-size: 20px;
+color: rgb(80, 65, 65);
+}
+
+.alert__message--success {
+border-bottom: 2px dotted green;
+color: rgb(49, 46, 46);
+}
